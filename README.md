@@ -1,5 +1,3 @@
-# Project Name
-> Outline a brief description of your project.
 # BoomBike - Bike Sharing Demand Prediction Case Study
 
 ## Problem Statement
